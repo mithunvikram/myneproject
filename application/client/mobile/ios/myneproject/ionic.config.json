@@ -1,0 +1,7 @@
+{
+  "name": "myneproject",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
